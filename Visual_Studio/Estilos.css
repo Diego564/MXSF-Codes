@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+div{
+
+    background-color: cyan;
+    padding: 50px;
+    margin: 100px;
+    width: 500px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    margin: auto auto;
+}
+    
+p{
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    font:"arial";
+    size: "15";
+    text-align: center;
+}
